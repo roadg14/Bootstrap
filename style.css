@@ -1,4 +1,35 @@
 
+body {
+    font-style: italic;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+  }
 .navbar {
-    background-color:royalblue
+    background-color: #1E90FF;
+}
+
+.barrar {
+    background-color: #1912CC;
+    margin-top: px;
+}
+.text {
+    font-style: italic;
+    color:#1E90FF;
+}
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.motivação {
+    background-color: #1E90FF;
+    padding-bottom: 15px;
+}
+.finalsite {
+    background-color:black;
+}
+.textfinal {
+    font-style: italic;
+    color: azure;
 }
